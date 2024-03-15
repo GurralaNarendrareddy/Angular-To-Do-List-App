@@ -1,0 +1,16 @@
+.main-cont{
+    position: relative;
+}
+h1{
+    text-align: center;
+    /* background-color: aqua;
+    width: 100%;
+    height: 150px; */
+}
+.to-do-list{
+    display: flex;
+    justify-content: center;
+    /* margin-top: -30px;
+    z-index:100; */
+    background-color: #fff;
+}
